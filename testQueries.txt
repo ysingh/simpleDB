@@ -1,0 +1,8 @@
+db.final.find({}, {ID, EID})
+db.final.find({Age=20, Manager=555}, {})
+db.final.find({Manager=555}, {EID, Dept})
+db.final.find({Agge},{EID})
+db.final.count(ID)
+db.final.min(Age)
+db.final.min(City)
+db.final.cartprod(Dept, Age)

@@ -1,0 +1,25 @@
+Spec1: 61 Gender: 2 Salary: 68800 
+Salary: 66200 Spec1: 96 Dept: 5 State: 40 City: 2 
+Salary: 84600 EID: 480 State: 48 Spec1: 46 Gender: 2 Dept: 4 
+Dept: 4 EID: 170 Salary: 181800 Age: 35 
+Spec1: 66 Salary: 56300 City: 1 Age: 54 Gender: 1 
+Dept: 4 Age: 98 
+City: 2 Salary: 96700 Dept: 3 
+State: 10 Spec1: 71 EID: 560 
+Gender: 2 Salary: 148500 Dept: 1 
+Age: 77 Gender: 1 EID: 570 City: 1 
+Dept: 5 State: 44 EID: 170 
+Gender: 1 EID: 170 City: 2 
+City: 1 Age: 76 Salary: 170000 
+Age: 28 State: 15 EID: 550 Spec1: 76 
+State: 7 Age: 97 Spec1: 56 Gender: 2 Salary: 181800 Dept: 2 EID: 550 City: 2 
+Salary: 130300 Spec1: 41 Age: 91 
+EID: 780 Age: 56 
+State: 16 Spec1: 26 Dept: 3 EID: 200 
+Gender: 2 Salary: 122000 
+Salary: 176600 Dept: 1 EID: 350 
+EID: 570 City: 1 Age: 34 Gender: 2 
+Dept: 2 
+Salary: 47300 State: 16 Gender: 2 
+Dept: 4 
+Gender: 2 Spec1: 26 Age: 78 EID: 620
